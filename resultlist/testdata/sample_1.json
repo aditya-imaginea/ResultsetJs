@@ -1,0 +1,59 @@
+{
+    "resultlist": {
+        "result": [
+            {
+                "productname": "Kodak EASYSHARE Z981 Point and Shoot",
+                "category": "Camera,Electronic",
+                "purchaseurl": "http://www.flipkart.com/cameras/kodak/itmczc5yzqkehcdh?pid=camcuts2wyhqvfgw?affid=adywritegm",
+                "seller": "www.flipkart.com",
+                "keywords": "Kodak EASYSHARE Z981 Point and Shoot, buy Kodak EASYSHARE Z981 Point and Shoot, Kodak EASYSHARE Z981 Point and Shoot india, Kodak EASYSHARE Z981 Point and Shoot review",
+                "brand": "Kodak",
+                "image": "http://img8.flixcart.com/image/camera/f/g/w/kodak-easyshare-z981-point-shoot-125x125-imacyy29spfrjbny.jpeg"
+            },
+            {
+                "productname": "Kodak EasyShare Touch M577 Point and Shoot",
+                "category": "Camera,Electronic",
+                "purchaseurl": "http://www.flipkart.com/cameras/kodak/itmcztgcaa25hjjp?pid=camdf23hukkxnq52?affid=adywritegm",
+                "seller": "www.flipkart.com",
+                "keywords": "Kodak EasyShare Touch M577 Point and Shoot, buy Kodak EasyShare Touch M577 Point and Shoot, Kodak EasyShare Touch M577 Point and Shoot india, Kodak EasyShare Touch M577 Point and Shoot review",
+                "brand": "Kodak",
+                "image": "http://img8.flixcart.com/image/camera/f/y/f/kodak-m577-point-shoot-125x125-imacztgmxuvpau3e.jpeg"
+            },
+            {
+                "productname": "Samsung PL Series PL20 Point and Shoot ",
+                "category": "Camera,Electronic",
+                "purchaseurl": "http://www.flipkart.com/cameras/samsung/itmczc4sp6hqqhxm?pid=camdy9adyfxz24bh?affid=adywritegm",
+                "seller": "www.flipkart.com",
+                "keywords": "Samsung PL Series PL20 Point and Shoot , buy Samsung PL Series PL20 Point and Shoot , Samsung PL Series PL20 Point and Shoot  india, Samsung PL Series PL20 Point and Shoot  review",
+                "brand": "Samsung",
+                "image": "http://img8.flixcart.com/image/camera/4/b/h/samsung-pl20-point-shoot-125x125-imadyemxey62w76g.jpeg"
+            },
+            {
+                "productname": "Samsung PL Series PL210 Point and Shoot",
+                "category": "Camera,Electronic",
+                "purchaseurl": "http://www.flipkart.com/cameras/samsung/itmcwhn8vbfkgb8v?pid=camcwjyaytpjhaym?affid=adywritegm",
+                "seller": "www.flipkart.com",
+                "keywords": "Samsung PL Series PL210 Point and Shoot , buy Samsung PL Series PL210 Point and Shoot , Samsung PL Series PL210 Point and Shoot india, Samsung PL Series PL210 Point and Shoot review",
+                "brand": "Samsung",
+                "image": "http://img8.flixcart.com/image/camera/b/8/v/samsung-pl-series-pl210-point-shoot-125x125-imacyy3m9uzptdeg.jpeg"
+            }
+        ],
+        "facet": [
+            {
+                "facetname": "facet1",
+                "facetcount": "10",
+                "facetquery": "url/qry=xx&fqry=tt"
+            },
+            {
+                "facetname": "facet2",
+                "facetcount": "10",
+                "facetquery": "url/qry=xx&fqry=tt"
+            }
+        ]
+    },
+    "pagination": {
+        "currentPage": "5",
+        "maxPages": "10",       
+        "totalResults": "95"
+    }
+}
